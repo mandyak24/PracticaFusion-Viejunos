@@ -15,9 +15,15 @@ public class Mascota {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
+	
+
+	
 
 	public void MandarMensaje() {
 		System.out.println("Soy " + this.nombre + " y te voy a contar algo o no");
+	}
+	public Panda () {
+		
 	}
 
 }
